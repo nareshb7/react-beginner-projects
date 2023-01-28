@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from './Carousel';
-import Footer from '../Footer';
+import Footer from '../footer/Index';
 
 /* 
 https://media.licdn.com/dms/image/C5603AQFleZQ8sGJRMg/profile-displayphoto-shrink_800_800/0/1646405052838?e=1680134400&v=beta&t=QRB24tyLwYN6sF1CjhIzCJmxwGHNQXkqUOv_ht427EU

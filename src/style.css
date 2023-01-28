@@ -24,6 +24,11 @@ button:hover {
   text-decoration: underline;
   color: rgb(71, 109, 214);
 }
+.footer {
+  background-color: #777;
+  display: flex;
+  justify-content: space-evenly;
+}
 
 .footer li {
   list-style: none;
