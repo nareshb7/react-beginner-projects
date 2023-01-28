@@ -1,0 +1,14 @@
+.speedForm input {
+  padding: 5px 15px;
+}
+.speedForm label {
+  font-size: 24px;
+  margin-inline: 10px;
+}
+.speedForm div {
+  margin-block: 10px;
+}
+.speedcalc-btn button {
+  padding: 10px 20px;
+  border: none;
+}

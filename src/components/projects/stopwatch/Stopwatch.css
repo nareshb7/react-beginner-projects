@@ -1,0 +1,17 @@
+.stopwatch {
+  text-align: center;
+}
+.stopwatch-time {
+  background-color: #4fb9cc;
+}
+.stopwatch-laps li {
+  margin-block: 3px;
+  padding: 10px 20px;
+  background-color: #3fb875;
+}
+
+.stopwatch-btn button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+}

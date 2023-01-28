@@ -2,7 +2,16 @@
   margin: 0;
   padding: 0;
 }
-
+a {
+  text-decoration: none;
+}
+button:hover {
+  color: #fff;
+  background-color: #444;
+}
+.nav-home {
+  background-color: #2010aa;
+}
 .nav-home li {
   display: inline-block;
   margin: 5px;
@@ -12,7 +21,7 @@
 }
 
 .active {
-  text-decoration: none;
+  text-decoration: underline;
   color: rgb(71, 109, 214);
 }
 
