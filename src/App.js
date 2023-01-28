@@ -1,11 +1,13 @@
-import React from "react";
-import "./style.css";
-
+import React from 'react';
+import './style.css';
+import Nav from './components/Nav';
+import RoutesComp from './components/RoutesComp';
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <Nav />
+      <RoutesComp />
+      
     </div>
   );
 }
