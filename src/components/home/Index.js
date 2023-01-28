@@ -30,7 +30,7 @@ const Home = () => {
         >
           <img
             src={`https://media.licdn.com/dms/image/C5603AQFleZQ8sGJRMg/profile-displayphoto-shrink_800_800/0/1646405052838?e=1680134400&v=beta&t=QRB24tyLwYN6sF1CjhIzCJmxwGHNQXkqUOv_ht427EU`}
-            style={{ width: '100%', height: '100%' }}
+            style={{ width: '100%', height: '100%', borderRadius: '10px' }}
             alt="image"
           />
         </div>
