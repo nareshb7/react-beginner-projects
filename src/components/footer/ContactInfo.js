@@ -6,7 +6,7 @@ const ContactInfo = () => {
       <h3 style={{ marginBlock: '5px' }}>Contact Info : </h3>
       <ul>
         <li>
-          <span>Naresh Baleboina</span>{' '}
+          <span>Name : Naresh Baleboina</span>{' '}
         </li>
         <li>
           <span>
