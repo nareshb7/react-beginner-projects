@@ -21,8 +21,8 @@ const Study = () => {
   };
   const studyArr = [btechObj, diplomaObj, schoolObj];
   return (
-    <div>
-      <table border="1" style={{ textAlign: 'center' }}>
+    <div className="about-study">
+      <table cellSpacing="20" style={{ textAlign: 'center' }}>
         <thead>
           <tr>
             <th>Sl. No</th>

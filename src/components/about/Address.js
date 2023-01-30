@@ -2,17 +2,18 @@ import React from 'react';
 
 const Address = () => {
   return (
-    <div>
+    <div className="about-address">
       <h1>Contact Address: </h1>
       <div>
         <h3>
-          <em>Name :</em> Naresh Baleboina
+          <em>Name :</em>
+          <span> Naresh Baleboina</span>
         </h3>
         <h3>
-          <em>Gender : </em> Male
+          <em>Gender : </em> <span>Male</span>
         </h3>
         <h3>
-          <em>D.O.B : </em> 18-01-1998
+          <em>D.O.B : </em> <span>18-01-1998</span>
         </h3>
         <h3>
           <em>Mobile : </em>

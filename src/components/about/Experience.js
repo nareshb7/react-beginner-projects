@@ -2,11 +2,23 @@ import React from 'react';
 
 const Experience = () => {
   return (
-    <div>
+    <div className="about-experience">
       <h1>Experience : </h1>
-      <div>Web Developer Intern - 1 Month </div>
-      <div>UI Developer - 3 Months</div>
-      <div>React JS Developer - 3 months </div>
+      <div>
+        <h3>
+          <em>Web Developer Intern</em> - <span>1 Month </span>
+        </h3>
+      </div>
+      <div>
+        <h3>
+          <em>UI Developer</em> - <span>3 Months</span>
+        </h3>
+      </div>
+      <div>
+        <h3>
+          <em>React JS Developer</em> - <span>3 months</span>{' '}
+        </h3>
+      </div>
     </div>
   );
 };

@@ -1,0 +1,48 @@
+.about-main {
+  background-color: #2a6cd2;
+}
+.about-main > h1 {
+  text-align: center;
+}
+.about-introduction {
+  background-color: #7797c7;
+  text-align: center;
+  margin-block: 10px;
+}
+.about-introduction h1,
+.about-introduction p {
+  margin-block: 10px;
+}
+.about-introduction p {
+  font-size: 16px;
+  font-style: oblique;
+}
+.about-study {
+  display: flex;
+  justify-content: center;
+}
+
+.about-study th {
+  margin-block: 10px;
+  color: #ddd;
+}
+
+.about-address,
+.about-experience,
+.about-skills {
+  width: 50%;
+  margin: auto;
+}
+h3 {
+  margin-block: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+em {
+  color: #e6ce47;
+}
+
+h1 {
+  color: #eee;
+  margin-block: 10px;
+}

@@ -2,31 +2,47 @@ import React from 'react';
 
 const Skills = () => {
   return (
-    <div>
+    <div className="about-skills">
       <h1>Skills : </h1>
       <div>
-        <span>HTML - 80%</span>
+        <h3>
+          <em>HTML</em> - <span>80%</span>
+        </h3>
       </div>
       <div>
-        <span>CSS - 75%</span>
+        <h3>
+          <em>CSS</em> - <span>75%</span>
+        </h3>
       </div>
       <div>
-        <span>JavaScript - 80%</span>
+        <h3>
+          <em>JavaScript</em> - <span>80%</span>
+        </h3>
       </div>
       <div>
-        <span>BootStrap - 70%</span>
+        <h3>
+          <em>BootStrap</em> - <span>70%</span>
+        </h3>
       </div>
       <div>
-        <span>Node JS - 40%</span>
+        <h3>
+          <em>Node JS</em> - <span>40%</span>
+        </h3>
       </div>
       <div>
-        <span>Mongo DB - 40%</span>
+        <h3>
+          <em>Mongo DB</em> - <span>40%</span>
+        </h3>
       </div>
       <div>
-        <span>Express JS - 40%</span>
+        <h3>
+          <em>Express JS</em> - <span>40%</span>
+        </h3>
       </div>
       <div>
-        <span>Angular - 50%</span>
+        <h3>
+          <em>Angular</em> - <span>50%</span>
+        </h3>
       </div>
     </div>
   );
